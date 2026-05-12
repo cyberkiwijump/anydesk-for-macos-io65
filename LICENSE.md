@@ -1,4 +1,4 @@
-# 
+# smart AnyDesk for macOS Integration | wake-on-LAN + session-management offers the most advanced AnyDesk for macOS integration, with wake-on-LAN and session-management. Ideal for
 
 
 
